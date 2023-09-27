@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import ttk
 import random
-
+#marcusadam idea, john gui
 # List of restaurant choices
 restaurant_data = [
     "McDonald's", "Wendy's", "Mi Hacienda", "Applebee's", "Bob Evans",
